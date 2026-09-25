@@ -1,0 +1,27 @@
+Atul Tiwari
+BE in Information Technology — 2nd Year Student
+
+Career focus:
+Web development, frontend engineering, and growing into Web3, blockchain, and DeFi.
+
+Skills:
+- Programming: C, C++, Java, Python
+- Web: HTML, CSS, JavaScript, React, Node.js, Bootstrap
+- Database: PostgreSQL
+- Core CS: DSA, OOPs, DBMS
+- Exploring: Blockchain fundamentals, smart contracts, DeFi, Web3
+
+Projects:
+- E-commerce Cart App
+- Student Portfolio + Blog
+- Task Manager Dashboard
+- DeFi Learning Dashboard (planned)
+
+Contact:
+- Email: atul.tiwari@email.com
+- LinkedIn: linkedin.com/in/yourprofile
+- GitHub: github.com/yourusername
+- Twitter / X: x.com/yourhandle
+
+Note:
+Replace this placeholder resume with your actual PDF or updated profile details when ready.
