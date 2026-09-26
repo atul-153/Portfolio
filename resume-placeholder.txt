@@ -13,15 +13,10 @@ Skills:
 
 Projects:
 - E-commerce Cart App
-- Student Portfolio + Blog
+- Student Portfolio
 - Task Manager Dashboard
-- DeFi Learning Dashboard (planned)
 
 Contact:
-- Email: atul.tiwari@email.com
-- LinkedIn: linkedin.com/in/yourprofile
-- GitHub: github.com/yourusername
-- Twitter / X: x.com/yourhandle
-
-Note:
-Replace this placeholder resume with your actual PDF or updated profile details when ready.
+- Email: info.atultiwari@email.com
+- LinkedIn: linkedin.com/in/atul-tiwari-4534652b8
+- GitHub: github.com/atul-153
